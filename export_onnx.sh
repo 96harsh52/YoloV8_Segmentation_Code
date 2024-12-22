@@ -1,0 +1,1 @@
+yolo export model=/data/WORKSPACE_HS/MSF100_YOLO/SRC_SEG_YOLO/runs/segment/train2/weights/best.pt format=onnx 
